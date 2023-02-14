@@ -1,5 +1,12 @@
 # Why this project
 
+Detail some rules on maintaining this documentation
+
+## The 'help' folder
+
+Any extra documentation that dosent fit in [README](../../README.md) can be put here. [README](../../README.md)
+can reference this documentation via links
+
 ## Aboud business rules
 
 This document is only to represent an internal business rule for this project, containing detailed info about it.
@@ -15,3 +22,8 @@ If in your team it is markdown and in a git repo, we recomend you place this doc
   ``` markdown
   - [my link description](my link): optional, two lines maximum, description for the link 
   ```
+
+## About sections
+
+each section **may** have a short description explaining itself or jump to its final function, the only exception is the main title that must have a description that explains what this topit is about, basically any topic with one `#` must have an
+explanation bellow it
