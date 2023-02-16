@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - added unreleased section
 
+### Fix
+
+- fixed description on how to execute the project
+
 ## [0.1.0]
 
 ### Added
