@@ -96,7 +96,7 @@ Project should be, in fact, an id for that project, a person should be abble to 
 
 |           project            | Description | Scope |
 | ---------------------------- | ----------- | ----- |
-| [documentation-template]([./help/mock/](https://github.com/lourencomcviana/documentation-template)) | make it possible to create documentation projects | **EXAMPLE** |
+| [documentation-template](https://github.com/lourencomcviana/documentation-template/edit/main/README.md) | make it possible to create documentation projects | **EXAMPLE** |
 
 ## Other references
 
