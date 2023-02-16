@@ -37,4 +37,3 @@ I want to be abble to point an existing repository and auto-scaffold this docume
 ## Divide Tecnical issues from business issues
 
 tecnical issues are for developers, not for business, they should link each other but they dosent need to exists in the same location.
-
