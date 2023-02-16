@@ -42,20 +42,6 @@ this list contain the minimal itens for runing the project in some way, for exam
 
 This is the most important session for a developer. As a new developer in a project, i want to be abble to run it easely and without doubts.
 
-## publishing
-
-How to publish this project in each envirionment
-
-### GitHub
-
-on a terminal run:
-
-``` bash
-git add .
-git commit -m "your commit message"
-git push
-```
-
 ### with minimum specs
 
 explain here the limitatins of minimun spec for your project
@@ -74,6 +60,20 @@ remember you can link other markdowns if the execution steps are to long or need
 - click in file
 - select open folder
 - choose the folder where this project is contained
+
+## publishing
+
+How to publish this project in each envirionment
+
+### GitHub
+
+on a terminal run:
+
+``` bash
+git add .
+git commit -m "your commit message"
+git push
+```
 
 ## References
 
