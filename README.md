@@ -15,7 +15,7 @@ Here wer have a **list of links** that explains in detail what the project is an
 links for documents containing images for the architetural structure of this project
 must be references and not polute the main document
 
-- [why this project](./help/business-rules): explanation about things in this project
+- [why this project](./help/business-rules/why-this-project.md): explanation about things in this project
 - [How to make a changelog](https://keepachangelog.com/en/1.0.0/): important to track changes
 - [How to version my project](https://semver.org/): important to identify and maintain evolutions clearly  
 - [what is markdown?](https://www.markdownguide.org/getting-started/)
@@ -102,4 +102,4 @@ Project should be, in fact, an id for that project, a person should be abble to 
 
 a list of any other needed references, can contain references to others internal documentation or anything realy. Just don't bload it with text, just list of links. remember to explain why this exception in the documentation
 
-- [the future](./help/scafolding.md)
+- [the future](./help/the-future.md)
